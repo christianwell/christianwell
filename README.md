@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=12168&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent
 )
 
+![Birthday Badge](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1199dcb4b553a79fd272a5c49423da7c65c6a3a8_birthday-badge.jpg)
 
